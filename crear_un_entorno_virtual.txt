@@ -11,7 +11,7 @@ Paso 1: Crear el Entorno Virtual
    ```
 
 Paso 2: Activar el Entorno Virtual
-==================================
+=======================================
 1. En macOS y Linux:
    ```sh
    source myenv/bin/activate
