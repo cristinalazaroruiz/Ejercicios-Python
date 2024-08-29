@@ -1,0 +1,2 @@
+from setuptools import setup
+setup ( name = 'mensajes', version = '2.0', author = 'Cris',description = 'Paquete para saludar y despedirse',url = 'no hay',author_email = 'None',packages = ['mensajes','mensajes.hola','mensajes.adios'],scripts = ['test.py'])
