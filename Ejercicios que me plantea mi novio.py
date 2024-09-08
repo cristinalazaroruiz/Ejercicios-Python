@@ -5,7 +5,7 @@ diccionario = [
     { "id": 4, "valor": "Marta", "novio": True, "carrera": "quimica" },
     { "id": 5, "valor": "Julia", "novio": True, "carrera": "sin futuro" },
     { "id": 6, "valor": "Paula", "novio": True, "carrera": "administracion" }
-    ]
+    ] 
 
 registros = []
 campos = []
